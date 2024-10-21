@@ -7,5 +7,3 @@ sudo snap install openstack --channel 2024.1/beta
 ```sh
 sunbeam prepare-node-script | bash -x && newgrp snap_daemon
 ```
-# openstack-tutor
-# openstack-tutor
